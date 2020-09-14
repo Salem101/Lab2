@@ -20,4 +20,7 @@ Part 1:
     Used else statement to output: input was invalid. 
     
     
-  C)
+  C) File name: API request
+  
+    Used Hoppscotch (a.k.a) postwoman to get the content of a GET request from Nasa's NeoWs (Near Earth Object Web Service). 
+     I picked the date I wanted an sent request. I copied the content and put in the file. 
