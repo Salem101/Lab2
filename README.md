@@ -1,7 +1,13 @@
 # Lab2
 
 Part 1: 
-  A) 
+  A) File name: ContactList.java
+  
+    Used FileReader & BufferedReader to read the file. 
+    Created ArrayLists for the columns that we want to read in. 
+    Used a while loop- while bufferedReader hasNext and is not null then add to list. 
+    Used FileWriter & PrintWriter to display output of alphabetized list of names. 
+    
   
   B) File name: TemperatureConverter.java
   
