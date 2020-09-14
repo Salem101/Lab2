@@ -24,3 +24,9 @@ Part 1:
   
     Used Hoppscotch (a.k.a) postwoman to get the content of a GET request from Nasa's NeoWs (Near Earth Object Web Service). 
      I picked the date I wanted an sent request. I copied the content and put in the file. 
+
+To run the code: 
+  * I attached the csv file related to the first question. 
+  * Just copy and paste the java code into your compiler and execute it. 
+  * All source code has the correct extensions which should be easy to decipher. 
+  
