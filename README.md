@@ -1,6 +1,8 @@
 # Lab2
 
 Part 1: 
+
+
   A) File name: ContactList.java
   
     Used FileReader & BufferedReader to read the file. 
